@@ -13,10 +13,10 @@ Code Sandbox: https://codesandbox.io/
 
 ## JSX component structure of the application
 1. App.jsx <br/>
-  i. Header.jsx
-  ii. CreateArea.jsx
-    a. Note.jsx
-  iii. Footer.jsx
+  i. Header.jsx <br/>
+  ii. CreateArea.jsx <br/>
+    a. Note.jsx <br/>
+  iii. Footer.jsx <br/>
 
 ## Screenshot of the application
 
