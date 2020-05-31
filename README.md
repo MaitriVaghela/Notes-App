@@ -19,10 +19,10 @@ Code Sandbox: https://codesandbox.io/
   - Footer.jsx 
 
 ## Screenshot of the application
-<img src = "https://github.com/MaitriVaghela/Notes-App/blob/master/Notes-app.PNG" width="250" height="250"/>
+<img src = "https://github.com/MaitriVaghela/Notes-App/blob/master/Notes-app.PNG" width="500" height="500"/>
 
 ## Credits
-1. The App Brewery (https://www.appbrewery.co/p/web-development-course-resources/)
-2. The Web Developer Bootcamp] (https://www.udemy.com/course/the-web-developer-bootcamp/)
-3. Color Hunt (https://colorhunt.co/)
-4. Material UI (https://material-ui.com/components/material-icons/)
+1. [The App Brewery](https://www.appbrewery.co/p/web-development-course-resources/)
+2. [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
+3. [Color Hunt](https://colorhunt.co/)
+4. [Material UI](https://material-ui.com/components/material-icons/)
