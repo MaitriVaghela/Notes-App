@@ -14,15 +14,15 @@ Code Sandbox: https://codesandbox.io/
 ## JSX component structure of the application
 1. App.jsx 
   - Header.jsx 
-   - CreateArea.jsx 
-     - Note.jsx 
-    - Footer.jsx 
+  - CreateArea.jsx 
+    - Note.jsx 
+  - Footer.jsx 
 
 ## Screenshot of the application
-
+(Notes-app.png)
 
 ## Credits
-1. [The App Brewery] (https://www.appbrewery.co/p/web-development-course-resources/)
-2. [The Web Developer Bootcamp] (https://www.udemy.com/course/the-web-developer-bootcamp/)
-3. [Color Hunt] (https://colorhunt.co/)
-4. [Material UI] (https://material-ui.com/components/material-icons/)
+1. The App Brewery (https://www.appbrewery.co/p/web-development-course-resources/)
+2. The Web Developer Bootcamp] (https://www.udemy.com/course/the-web-developer-bootcamp/)
+3. Color Hunt (https://colorhunt.co/)
+4. Material UI (https://material-ui.com/components/material-icons/)
