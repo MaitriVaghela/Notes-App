@@ -18,8 +18,7 @@ Code Sandbox: https://codesandbox.io/
     - Note.jsx 
   - Footer.jsx 
 
-## Screenshot of the application
-(Notes-app.png)
+## [Screenshot of the application](Notes-app.png)
 
 ## Credits
 1. The App Brewery (https://www.appbrewery.co/p/web-development-course-resources/)
