@@ -5,14 +5,14 @@ Notes app is a React app which allows users to add title of the notes and relate
 3. Delete previous notes.
 
 ## Websites used
-For color palletes: https://colorhunt.co/
+For color palletes: https://colorhunt.co/ <br/>
 For Icons: https://material-ui.com/components/material-icons/
 
 ## Code Editors used
 Code Sandbox: https://codesandbox.io/
 
 ## JSX component structure of the application
-1. App.jsx
+1. App.jsx <br/>
   i. Header.jsx
   ii. CreateArea.jsx
     a. Note.jsx
